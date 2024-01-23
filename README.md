@@ -31,6 +31,6 @@
   
 </div>
 
-
-
+## See Python eating my contributions on github!
+![snake gif](https://github.com/lcmartin35/lcmartin35/blob/output/github-contribution-grid-snake.svg)
 
